@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: msgs
+    schema: msgs
+    description: This is the msgs database loaded into bronze
+    tables:
+      - name: cop225
